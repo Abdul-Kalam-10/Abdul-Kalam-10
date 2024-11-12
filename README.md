@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-kalam-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-kalam-10" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abdul-kalam-10" alt="abdul-kalam-10" /></a> </p>
-
 - 🔭 I’m currently working on **Palinka Tool**
 
 - 🌱 I’m currently learning **React JS , LLM's**
@@ -12,6 +10,8 @@
 - 👯 I’m looking to collaborate on **React JS**
 
 - 🤝 I’m looking for help with **Python LLM's**
+
+- 👨‍💻 All of my projects are available at [https://github.com/Abdul-Kalam-10](https://github.com/Abdul-Kalam-10)
 
 - 💬 Ask me about **Java , Software Engineering**
 
