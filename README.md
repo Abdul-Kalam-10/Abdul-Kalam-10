@@ -1,19 +1,19 @@
 <h1 align="center">Hi 👋, I'm ABDUL KALAM B</h1>
-<h3 align="center">A passionate Backend Developer from India</h3>
+<h3 align="center">A passionate Software Developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-kalam-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-kalam-10" /> </p>
 
-- 🔭 I’m currently working on **Palinka Tool**
+- 🔭 I’m currently working on **Annotation Tool**
 
-- 🌱 I’m currently learning **React JS , LLM's**
+- 🌱 I’m currently learning **Backend JS , LLM's**
 
-- 👯 I’m looking to collaborate on **React JS**
+- 👯 I’m looking to collaborate on **Web Dev**
 
-- 🤝 I’m looking for help with **Python LLM's**
+- 🤝 I’m looking for help with **Python LLM's , Web3**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abdul-Kalam-10](https://github.com/Abdul-Kalam-10)
 
-- 💬 Ask me about **Java , Software Engineering**
+- 💬 Ask me about **Java , Software Developments**
 
 - 📫 How to reach me **abdulkalamb23@gmail.com**
 
