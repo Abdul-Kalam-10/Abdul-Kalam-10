@@ -1,55 +1,129 @@
-<h1 align="center">Hi 👋, I'm ABDUL KALAM B</h1>
-<h3 align="center">A passionate Software Developer from India</h3>
+<h1 data-importer="text" align="center">Hi 👋, I'm ABDUL KALAM B</h1>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=abdul-kalam-10&label=Profile%20views&color=0e75b6&style=flat" alt="abdul-kalam-10" /> </p>
+###
 
-- 🔭 I’m currently working on **Annotation Tool**
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=Abdul-Kalam-10.Abdul-Kalam-10&left_color=grey&right_color=brown"  />
+</div>
 
-- 🌱 I’m currently learning **Backend JS , LLM's**
+###
 
-- 👯 I’m looking to collaborate on **Web Dev**
+<h3 data-importer="text" align="left">👩‍💻  About , passionate Software Developer from India</h3>
 
-- 🤝 I’m looking for help with **Python LLM's , Web3**
+###
 
-- 👨‍💻 All of my projects are available at [https://github.com/Abdul-Kalam-10](https://github.com/Abdul-Kalam-10)
+<p data-importer="text" align="left">• 🔭 Working as a Junior Software Engineer.<br><br>• 📚 Currently exploring Systems Engineering and Computer Science concepts.<br><br>• 💻 Interested in building robust software, backend services, and scalable systems.<br><br>• 🌱 Always learning and improving my problem-solving and software design skills.<br><br>• ⚡ In my free time, I explore new technologies, follow the tech market.</p>
 
-- 💬 Ask me about **Java , Software Developments**
+###
 
-- 📫 How to reach me **abdulkalamb23@gmail.com**
+<h3 data-importer="text" align="left">🛠 Languages</h3>
 
-- ⚡ Fun fact **A cloud weighs around a million tonnes..**
+###
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/abdul-kalam-b-10-/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/abdul-kalam-b-10-/" height="30" width="40" /></a>
-<a href="https://kaggle.com/https://www.kaggle.com/abdulkalamb2323" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="https://www.kaggle.com/abdulkalamb2323" height="30" width="40" /></a>
-<a href="https://twitter.com/@abdul_kalam_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abdul_kalam_10" height="38" width="35" /></a>
-</p>
+<img data-importer="image" align="right" height="185" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdGlkYnRpZmhwaWE0aDZiemVyajRyeTB3aWN6Mm9rdG9tOGo0cmZlZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Npdl9kOaKFJHuRCBGx/giphy.gif"  />
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="42"/> </a> <a href="https://www.crummy.com/software/BeautifulSoup/" target="blank" rel="noreferrer">
-  <img src="https://img.icons8.com/fluency/48/000000/soup-plate.png" alt="Beautiful Soup Logo" height="44" width="40" />
-</a>
- <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="42" height="40"/> </a> <a href="https://www.canva.com/" target="_blank" rel="noreferrer">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/136815194/253220886-02494c7c-de6a-43a6-9293-6369696842ed.png" alt="Canva" width="41" height="40"/>
-</a>
- <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a>
-</a> <a href="https://expressjs.com/" target="blank"  rel="noreferrer> <img src="https://user-images.githubusercontent.com/25181517/183859966-a3462d8d-1bc7-4880-b353-e2cbed900ed6.png" alt="Express.js Logo" height="40" width="40" /> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://fastapi.tiangolo.com/" target="_blank" rel="noreferrer">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/fastapi/fastapi-original.svg" alt="FastAPI" width="40" height="40"/>
-</a> <a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jupyter.org/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/25181517/183914128-3fc88b4a-4ac1-40e6-9443-9a30182379b7.png" alt="Jupyter Notebook" width="40" height="40"/>
-</a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/25181517/183891303-41f257f8-6b3d-487c-aa56-c497b880d0fb.png" alt="Spring Boot" width="40" height="40"/>
-</a> <a href="https://spring.io/" target="_blank" rel="noreferrer">
-  <img src="https://user-images.githubusercontent.com/25181517/117207242-07d5a700-adf4-11eb-975e-be04e62b984b.png" alt="Spring Framework" width="40" height="40"/>
-</a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://spring.io/projects/spring-boot" target="_blank" rel="noreferrer">
-  <img src="https://github-production-user-asset-6210df.s3.amazonaws.com/62091613/261395532-b40892ef-efb8-4b0e-a6b5-d1cfc2f3fc35.png" alt="Spring Boot" width="40" height="40"/>
-</a> </p>
+###
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abdul-kalam-10&show_icons=true&locale=en&layout=compact" alt="abdul-kalam-10" /></p>
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+</div>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abdul-kalam-10&show_icons=true&locale=en" alt="abdul-kalam-10" /></p>
+###
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abdul-kalam-10&" alt="abdul-kalam-10" /></p>
+<h3 data-importer="text" align="left">🛠 Databases</h3>
 
+###
 
+<div data-importer="techs" align="left">
+  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redis/redis-original.svg" height="40" alt="redis logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Frameworks</h3>
+
+###
+
+<img data-importer="image" align="right" height="180" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZHAzeXN4M2RpZDRkN3h0c2NvdHRtaDhxa3BpNHJxNWkzZjJ4ZGd6eiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/0eIgxkeDtLSbWLkOAc/giphy.gif"  />
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" height="40" alt="fastapi logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">🛠 Others</h3>
+
+###
+
+<div data-importer="techs" align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/githubactions/2088FF" height="40" alt="githubactions logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/docker/2496ED" height="40" alt="docker logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/kubernetes/326CE5" height="40" alt="kubernetes logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=aws" height="40" alt="amazonwebservices logo"  />
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Connect:</h3>
+
+###
+
+<div data-importer="socials" align="left">
+  <a href="https://www.linkedin.com/in/abdulkalamb/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+  <a href="abdulkalamb23@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  </a>
+  <a href="https://x.com/abdul_kalam_10" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=X&logo=x&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
+  </a>
+</div>
+
+###
+
+<h3 data-importer="text" align="left">Stats:</h3>
+
+###
+
+<div data-importer="stats" align="left">
+  <img src="https://raw.githubusercontent.com/Abdul-Kalam-10/Abdul-Kalam-10/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://raw.githubusercontent.com/Abdul-Kalam-10/Abdul-Kalam-10/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="249" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=Abdul-Kalam-10&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+</div>
+
+###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/Abdul-Kalam-10/Abdul-Kalam-10/snake-output/snake.svg" alt="Snake animation" />
+
+###
+
+<div data-importer="image" align="center">
+  <img data-importer="image" height="200" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExeDNuYXRoaGJqa3E2MjR0NWNlOHYxd3ZzcHc1dnZlZWhkd2dlNDR2aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/AqVx0YGEyRajOI3Pkm/giphy.gif"  />
+</div>
+
+###
